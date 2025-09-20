@@ -21,7 +21,7 @@ Existem duas opções de instalação:
 git clone https://github.com/wDarkiih/projeto---petguard.git
 
 2. Entre na pasta do projeto:
-cd [repositorio]
+cd projeto---petguard
 
 3. Abra o arquivo index.html em seu navegador.
 
