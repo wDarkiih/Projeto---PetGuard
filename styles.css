@@ -1,0 +1,135 @@
+
+/* INDEX */
+.topo {
+    height: 165px;
+    background-image: linear-gradient(#43cc25, #24810f);
+    padding: 30px;
+    justify-items: center;
+}
+.logo {
+    border-radius: 50%;
+}
+.mid {
+    width: 140px;
+    height: 140px;
+}
+.big {
+    width: 250px;
+    height: 250px;
+}
+.menubtn {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 150%;
+}
+.menubtn:hover {
+    color: rgb(255, 255, 255);
+    font-weight:bold;
+}
+.servicosbtn {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 150%;
+    text-decoration: underline;
+}
+.servicosbtn:hover {
+    color: #43cc25;
+    font-weight:bold;
+}
+
+
+.textosobre{
+    font-weight: bold; 
+    font-family: Calibri, 'arial'; 
+}
+
+i{
+    color: blue;
+    background-color: orange;
+}
+
+.alegria{
+    color: yellow;
+    background-color: blueviolet;
+}
+
+.meio{
+    height: 300px;
+}
+.textomeio{
+    font-size: 26px;
+    font-family: Calibri, 'arial';
+}
+
+/* CADASTRO */
+.titulologin {
+    background-color: #43cc25;
+    color: white;
+    border-radius: 15px;
+}
+.login {
+    height: 520px;
+}
+.cadastro {
+    height: 480px;
+}
+.formlogin {
+    border: 2px solid #43cc25;
+    border-radius: 15px;
+    padding: 20px;
+}
+.submit {
+    background-color: #43cc25;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+.formlogin input {
+    border: 1px solid #43cc25;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.rodape {
+    background-color: #43cc25;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.buscainteligente {
+    background-color:#43cc25;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 150%;
+    text-align:center;
+}
+.buscainteligente:hover {
+    background-color:#43cc25;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 150%;
+    
+}
+.botoesbuscainteligente {
+    background-color:#43cc25;
+}
+.botoesbuscainteligente:hover {
+    background-color:#43cc25;
+    color:white;
+}
+
+
+
+.sobrenos{
+    height: 710px;
+}
+
+.buscas{
+    height: 420px;
+}
