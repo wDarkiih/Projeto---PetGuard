@@ -18,7 +18,7 @@ Existem duas opções de instalação:
   # 1. Por repositório:
   Se você tem Git instalado, você pode clonar o projeto no seu computador:
 1. Clone este repositório:
-git clone https://github.com/[usuario]/[repositorio].git
+git clone https://github.com/wDarkiih/projeto---petguard.git
 
 2. Entre na pasta do projeto:
 cd [repositorio]
